@@ -8,6 +8,7 @@ Arquivo Excel com scripts VBA para cadastro e acessos de usuários de forma prof
 Clique no botão verde e depois em download zip, conforme a imagem abaixo.
   
 ![image](https://github.com/user-attachments/assets/6d896e90-b11b-4a41-8d5c-9cb0f279c3f7)
+![image](https://github.com/user-attachments/assets/1b01fd52-a7b5-4f9e-ad6f-6897f1de8699)
 
 ## Etapas para automatizar
 
